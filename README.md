@@ -1,9 +1,18 @@
-# apiproduct_listing
+# apiproduct_listing_ex
 
 This is a custom drupal module for use within an Apigee Edge developer portal,
-which displays the API Product list, organized by category.
+which displays the API Product list, organized by category. In other words, the API Product Catalog.
+
+This module allows client-side (browser-side) search and filter of the API Product catalog.
+
 
 ## Using it
+
+You need to do 2 things in order to use this module:
+
+1. add the module to your Drupal into sites/all/modules/custom/apiproduct_listing
+
+2. configure your API Products in Apigee Edge with custom attributes. 
 
 For each API product to appear in the listing, Administrators should configure it as "public", and should also attach some custom attributeS:
 
