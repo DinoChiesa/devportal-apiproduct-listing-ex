@@ -35,16 +35,22 @@ set of available API Products and the categories.
 
 The filter.js plugin then generates the HTML dynamically based on that Javascript array.
 
+## Notes
+
+* This module has never been tested outside of a Fazio-based devportal.
+* Please raise bugs and pull requests
 
 ## Weird
 
 No idea why, but when I modify the .css file, I get this warning in the
 webpage served by Drupal:
 
+```
 The specified file temporary://fileIxb7Ez could not be copied, because
 the destination directory is not properly configured. This may be caused
 by a problem with file or directory permissions. More information is
 available in the system log.
+```
 
 ## License
 
