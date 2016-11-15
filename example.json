@@ -1,0 +1,130 @@
+var rawProducts = [
+    {
+      "name": "Flight On-Time History",
+      "displayName": "Flight On-Time History",
+      "description": "",
+      "link_doc": "/apis",
+      "link_img": "http://www.airnamibia.com/wp-content/uploads/2014/02/on-time-air-namibia.jpg",
+      "categories": [
+        "Reservations",
+        "Flight Operations"
+      ]
+    },
+    {
+      "name": "FlightStatus",
+      "displayName": "FlightStatus",
+      "description": "",
+      "link_doc": "/apis",
+      "link_img": "http://i.cdn.turner.com/cnn/2010/TRAVEL/11/18/flying.driving.travel.apps/t1larg.flight.status.jpg",
+      "categories": [
+        "Flight Operations",
+        "Reservations"
+      ]
+    },
+    {
+      "name": "KQ_2",
+      "displayName": "KQ_2",
+      "description": "",
+      "link_doc": "/apis",
+      "link_img": "sites/all/modules/custom/apiproduct_listing/docs/K.png",
+      "categories": []
+    },
+    {
+      "name": "Loyalty",
+      "displayName": "Loyalty",
+      "description": "Add members to loyalty program, inquire loyalty status.",
+      "link_doc": "/apis",
+      "link_img": "http://dinochiesa.github.io/portal-images/Members-232x148.png",
+      "categories": [
+        "Members"
+      ]
+    },
+    {
+      "name": "Member Metrics",
+      "displayName": "Member Metrics",
+      "description": "Providing calculated metrics regarding members, including stats such as ARPU, with breakdowns by geography, age and other demographic factors.",
+      "link_doc": "/apis",
+      "link_img": "http://dinochiesa.github.io/portal-images/Member-Metrics-232x148.png?_=4",
+      "categories": [
+        "Members"
+      ]
+    },
+    {
+      "name": "Member Offers",
+      "displayName": "Member Offers",
+      "description": "Current membership offers, including source, validity, and subscription eligibility details.",
+      "link_doc": "/apis",
+      "link_img": "http://dinochiesa.github.io/portal-images/Member-Offers-232x148.png",
+      "categories": [
+        "Members",
+        "Marketing"
+      ]
+    },
+    {
+      "name": "Operations1",
+      "displayName": "Operations Stats",
+      "description": "Collect statistics around customer service operations, average time-to-respond, time in call queue, and related.",
+      "link_doc": "/apis",
+      "link_img": "http://dinochiesa.github.io/portal-images/Operations-232x148.png",
+      "categories": [
+        "Operations"
+      ]
+    },
+    {
+      "name": "Offers1",
+      "displayName": "Package Deals",
+      "description": "Package deals offered by third parties to our members.",
+      "link_doc": "/apis",
+      "link_img": "http://dinochiesa.github.io/portal-images/Package-Deals-232x148.png",
+      "categories": [
+        "Marketing"
+      ]
+    },
+    {
+      "name": "Offers2",
+      "displayName": "Promotions",
+      "description": "Current membership offers, including source, validity, and subscription eligibility details.",
+      "link_doc": "/apis",
+      "link_img": "http://dinochiesa.github.io/portal-images/Promotions-232x148.png",
+      "categories": [
+        "Members",
+        "Marketing"
+      ]
+    },
+    {
+      "name": "Reservations",
+      "displayName": "Reservations",
+      "description": "",
+      "link_doc": "/apis",
+      "link_img": "http://flyhamilton.ca/wp-content/uploads/2012/12/icon-airplane_x2.png",
+      "categories": [
+        "Reservations"
+      ]
+    },
+    {
+      "name": "Mikes Test Product",
+      "displayName": "Test Product 1",
+      "description": "A description for the example API Product. This can be specified in the Administrative portal, and it appears in the Developer portal.",
+      "link_doc": "/apiproducts",
+      "link_img": "http://dinochiesa.github.io/portal-images/Maintenance-232x148.png",
+      "categories": [
+        "Test"
+      ]
+    },
+    {
+      "name": "key-quota-Product",
+      "displayName": "key-quota Product",
+      "description": "key-quota Product",
+      "link_doc": "/apis",
+      "link_img": "sites/all/modules/custom/apiproduct_listing/docs/K.png",
+      "categories": []
+    },
+    {
+      "name": "quota-alert-rJ2Obd2zdJ",
+      "displayName": "quota-alert Test product quota-alert-rJ2Obd2zdJ",
+      "description": "Test for quota-alert",
+      "link_doc": "/apis",
+      "link_img": "sites/all/modules/custom/apiproduct_listing/docs/Q.png",
+      "categories": []
+    }
+  ]  ;
