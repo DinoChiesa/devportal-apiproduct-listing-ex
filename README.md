@@ -12,7 +12,7 @@ For each API product to appear in the listing, Administrators should configure i
 | category       | comma-separated list of category names the product belongs to. Example: "Members, Loyalty" |
 | ext_description| long-form description of the purpose of the API product, suitable for developers who might subscribe to the product. |
 | doc_url        | a URL that links to the documentation for this API Product. It need not be a URL local to the developer portal, but it would be better.  You can use a relative URL here. | 
-| image_url      | a URL for an image to display in the tile on the API Product listing page. With multiple images, it works best to make them all the same size, eg 232x148, or 232x200.  Can use a relative URL here. | 
+| image_url      | a URL for an image to display in the tile on the API Product listing page. With multiple images, it works best to make them all the same size, eg 232x148, or 232x200.  Can use a relative URL here.  If you do so, it should refer to an image which has been uploaded with a separate module or in some other way uploaded to the drupal devportal. | 
 
 
 
