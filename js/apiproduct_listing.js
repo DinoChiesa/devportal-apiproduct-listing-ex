@@ -5,7 +5,7 @@
 // Depends on filter.js, from https://github.com/jiren/filter.js
 //
 // created: Wed Nov  9 10:16:26 2016
-// last saved: <2016-November-10 19:17:49>
+// last saved: <2016-November-30 14:49:46>
 
 jQuery(document).ready(function($) {
   var prodFilter = null;
@@ -62,7 +62,7 @@ jQuery(document).ready(function($) {
     prodFilter = FilterJS(rawProducts, "#apiproduct_filtered_list", {
       template: '#prod_template',
       criterias:[
-        {field: 'categories', ele: 'ul.apiproduct-category-list :checkbox.category-name'}
+        {field: 'categories', ele: 'ul.apiproduct-category-list :checkbox'}
       ],
       search: { ele: '#search_box' }
     });
